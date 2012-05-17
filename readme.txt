@@ -3,7 +3,7 @@ Contributors: coderguy
 Tags: google, analytics, sitewide, network, multisite
 Requires at least: 3.1
 Tested up to: 3.3.2
-Stable tag: 1.0 
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,11 +45,15 @@ https://developers.google.com/analytics/devguides/collection/gajs/gaTrackingSite
 
 == Changelog ==
 
+= 1.1 =
+* Added templates (previous version is non-working).
+
 = 1.0 =
 * Initial submission.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
 
-Nothing here yet.
+Copy error on initial release.
+
