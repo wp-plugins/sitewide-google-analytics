@@ -56,6 +56,10 @@ https://developers.google.com/analytics/devguides/collection/gajs/gaTrackingSite
 
 == Upgrade Notice ==
 
+= 1.2.1 =
+
+Please fill in your Google Analytics details again.
+
 = 1.1 =
 
 Copy error on initial release.
